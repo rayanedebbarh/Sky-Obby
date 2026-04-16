@@ -98,7 +98,7 @@ Sky Obby
 ## 👤 Author
 
 **Rayane** — CS Student at Alma College  
-[LinkedIn](www.linkedin.com/in/rayane-debbarh)
+[LinkedIn](https://www.linkedin.com/in/rayane-debbarh)
 
 ---
 
