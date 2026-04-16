@@ -36,7 +36,7 @@ A 5-stage obstacle course built from scratch using **Roblox Studio** and **Lua s
 
 ## 🎯 Gameplay
 
-Sky Obby has 5 stages, and each one hits different. You start easy with some classic platforms, then suddenly you're dodging lava, jumping on moving platforms, hopping across floating discs with nothing below you, and racing through color platforms that switch before you're ready. Make it through all that, and you reach the Finish: a house with a full backyard, playground, and swings. It's a good feeling when you get there.
+Sky Obby has 5 stages, and each one hits different. You start easy with some classic platforms, then suddenly you're dodging lava, jumping on moving platforms, hopping across floating discs with nothing below you, and racing through color platforms that switch before you're ready. Make it through all that, and you reach the Finish: a house with a full backyard, playground, and swings. The Finish area also has a row of colored speed discs in the backyard; each one sets your walk speed to something different, from barely moving to flying across the grass. It's a good feeling when you get there.
 
 ### Stages Breakdown
 
@@ -47,7 +47,7 @@ Sky Obby has 5 stages, and each one hits different. You start easy with some cla
 | Stage Three | Moving platforms that keep you on your toes |
 | Stage Four | Floating discs high in the sky with nothing below |
 | Stage Five | Fast color platforms that switch before you're ready |
-| Finish | A house with a backyard, playground, and swings |
+| Finish | A house with a backyard, playground, swings, and colored speed discs that each set your walk speed differently — from 1 all the way up to 500 |
 
 ---
 
